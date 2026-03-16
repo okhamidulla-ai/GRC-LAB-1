@@ -1,0 +1,1 @@
+This repository presents a mini lab for conducting a structured risk assessment. It guides users through identifying critical assets, analyzing threats and vulnerabilities, evaluating risk impact and likelihood, mapping risks to NIST CSF controls, defining mitigation strategies, and calculating residual risk. Ideal for teams managing PHI and cloud operations.
